@@ -86,6 +86,14 @@ Jira · Confluence · Slack
 
 ## Featured Work
 
+### 🤖 [Adaptive POS](https://github.com/rennyluzardo/Adaptive-POS)
+AI-Driven Generative UI Orchestration system using LangGraph & NestJS. An adaptive Point of Sale system that dynamically generates user interfaces through Server-Driven UI architecture, with the backend evaluating user intent and returning UI schemas that the frontend renders in real-time.
+
+- **Innovation:** Multi-agent system with specialized roles (Frontend, Backend, QA, Infra, Doc agents) following Spec-Driven Development methodology
+- **Architecture:** Generative UI paradigm with Zod schema contracts, LLM hallucination resilience, and real-time Server-Sent Events
+- **Tech Stack:** NestJS + LangGraph.js + Google Gemini API (Backend) • React 19 + TailwindCSS 4 + Vite (Frontend)
+- **Impact:** Demonstrates cutting-edge AI-assisted engineering workflows with robust validation and enterprise-grade architecture
+
 ### 🏛️ [Software Engineering & Architecture Vault](https://github.com/rennyluzardo/software-engineering-vault)
 A curated collection of Architectural Decision Records (ADRs), performance case studies, and system design documents derived from real production experience.
 
