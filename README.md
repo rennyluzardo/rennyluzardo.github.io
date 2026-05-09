@@ -1,33 +1,3 @@
-<!--
-<meta name="description" content="Renny Luzardo - Senior Frontend Engineer with 10+ years experience in React, Angular, React Native, Node.js, and TypeScript. Expert in high-performance interfaces for Fintech, SaaS, and E-commerce with focus on scalability and clean architecture.">
-<meta name="keywords" content="Senior Frontend Engineer, React, Angular, React Native, Node.js, TypeScript, Fintech, SaaS, E-commerce, Software Architecture, Fullstack Developer">
-<meta name="author" content="Renny Luzardo">
-<meta property="og:title" content="Renny Luzardo - Senior Frontend Engineer">
-<meta property="og:description" content="Senior Frontend Engineer with 10+ years building high-performance interfaces for Fintech, SaaS, and E-commerce. Expert in React, Angular, React Native, Node.js, and TypeScript.">
-<meta property="og:type" content="profile">
-<meta property="og:url" content="https://github.com/rennyluzardo">
-<link rel="canonical" href="https://github.com/rennyluzardo">
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Renny Luzardo",
-  "jobTitle": "Senior Frontend Engineer",
-  "description": "Senior Frontend Engineer with 10+ years building high-performance interfaces for Fintech, SaaS, and E-commerce",
-  "url": "https://github.com/rennyluzardo",
-  "sameAs": [
-    "https://linkedin.com/in/rennyluzardo",
-    "https://github.com/rennyluzardo"
-  ],
-  "knowsAbout": [
-    "React", "Angular", "React Native", "Node.js", "TypeScript",
-    "Software Architecture", "Frontend Engineering", "Fullstack Development"
-  ]
-}
-</script>
--->
-
 <h1>Renny Luzardo</h1>
 
 **Senior Frontend Engineer**
@@ -40,9 +10,13 @@
 
 ## About
 
-Frontend engineer with 10+ years building high-performance interfaces for B2B and B2C products across Fintech, SaaS, and E-commerce. I work across the full frontend stack — from component architecture and design systems to mobile apps and Node.js backends — with a strong focus on scalability, clean architecture, and measurable impact.
-
-Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Copilot, and Gemini to accelerate delivery without sacrificing quality.
+Frontend engineer with 10+ years building high-performance interfaces for B2B and B2C products across Fintech, SaaS, and E-commerce. Expert in component architecture, design systems, and full-stack development (React, Angular, React Native, Node.js).
+ 
+**Currently focused on AI-agentic systems:** LLM orchestration with LangGraph, generative UI design, UISchema contracts with Zod, and knowledge-driven development (Agents.md, skills.md, rules.md). Building [Adaptive-POS](https://github.com/rennyluzardo/Adaptive-POS) — a next-generation point-of-sale system where interfaces generate dynamically based on user intent and real inventory data.
+ 
+Strong advocate for sustainable architecture over short-term delivery pressure. Passionate about measurable impact: bundle optimization (60% reduction), system reliability (99.8% uptime), and code quality through thoughtful design patterns and AI-assisted engineering (Windsurf, GitHub Copilot, Claude).
+ 
+**Open to remote roles.**
 
 ---
 
