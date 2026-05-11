@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="2tT1cuDtuLPI-rlWwIbfLYoybFavc11bFt6ufjb3iXQ" />
 <h1>Renny Luzardo</h1>
 
 **Senior Frontend Engineer**
